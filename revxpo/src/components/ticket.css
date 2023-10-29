@@ -1,0 +1,43 @@
+.ticks{
+background: #FFF;
+padding-bottom: 62px;
+}
+.ticks h1{
+    color: #1F1F1F;
+text-align: center;
+font-family: Orbitron;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2.5px;
+padding-top: 32px;
+}
+.ticks img{
+    object-fit: contain;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ticks button{
+    border-radius: 10px;
+background: #1F1F1F;
+border: none;
+color: #FFF;
+font-family: Oxanium;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2px;
+display: block;
+margin-top: 14px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 16px;
+padding-bottom: 16px;
+padding-left: 28px;
+padding-right: 28px;
+}

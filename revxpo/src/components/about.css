@@ -1,0 +1,29 @@
+.abt{
+    background: #FFF;
+}
+.red2{
+    width: 61px;
+height: 4px;
+background: #A81620;
+margin-left: 23px;
+margin-bottom: 12px;
+}
+.abt h1{
+    color: #1F1F1F;
+font-family: Orbitron;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding-left: 23px;
+padding-top: 20px;
+}
+.abt p{
+    color: #000;
+font-family: Overlock;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 26px 26px 26px 26px;
+}

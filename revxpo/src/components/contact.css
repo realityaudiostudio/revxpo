@@ -1,0 +1,36 @@
+.cnt h1{
+    color: #FFF;
+font-family: Orbitron;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-align: left;
+padding-left: 23px;
+}
+.red2{
+    width: 61px;
+height: 4px;
+background: #A81620;
+margin-left: 23px;
+margin-bottom: 12px;
+}
+.aalkar{
+    margin-bottom: 33px;
+}
+.aalkar p{
+    text-align: center;
+    color: #FFF;
+text-align: center;
+font-family: Overlock;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 12px;
+}
+.icos{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
