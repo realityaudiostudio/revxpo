@@ -1,4 +1,0 @@
-[build]
-  base = "revxpo/"
-  publish = "revxpo/build"
-  command = "npm run build"
