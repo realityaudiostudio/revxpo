@@ -27,3 +27,12 @@ line-height: normal;
 text-decoration: none;
 
 }
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+   body{width:400px;border:solid 1px;border-radius: 25px;padding: 10px;display: block;
+    margin-left: auto;
+    margin-right: auto;}
+    .nave{
+        width: 100%;
+    }
+  }

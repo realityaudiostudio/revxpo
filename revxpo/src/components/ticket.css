@@ -41,3 +41,18 @@ padding-bottom: 16px;
 padding-left: 28px;
 padding-right: 28px;
 }
+.ticks1 {
+    color: #676767;
+    text-align: center;
+    font-family: Overlock;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.ticks2 {
+    color: #676767;
+    text-align: center;
+    font-family: Overlock;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
