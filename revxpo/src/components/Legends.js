@@ -1,6 +1,5 @@
 import React from 'react'
 import Vasu from "../imgs/vasu.png";
-import Trucker from "../imgs/truck.png";
 import Surprise from "../imgs/surprise.png";
 import n1concept from '../imgs/n1.png';
 import './legends.css';
@@ -16,10 +15,7 @@ of</h1>
         <img src={Vasu} alt='Parunth'></img>
         <p>Eagle Gaming</p>
         </div>
-        <div className="persons">
-        <img src={Trucker} alt='Parunth'></img>
-        <p>Abin Babs Abraham</p>
-        </div>
+
         <div className="persons">
         <img src={n1concept} alt='Parunth'></img>
         <p>N1Concepts</p>
